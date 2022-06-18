@@ -1,0 +1,27 @@
+{
+  "persons": [
+    {
+      "name": "Diego",
+      "street": "La Arcilla",
+      "city": "San Fernando",
+      "id": "1",
+      "age": "23",
+      "phone": "19876544"
+    },
+    {
+      "name": "Ignacio",
+      "street": "La Arcilla",
+      "city": "Rancagua",
+      "id": "2",
+      "age": "22"
+    },
+    {
+      "name": "Daniel",
+      "street": "La Arcilla",
+      "city": "San Diego",
+      "id": "3",
+      "age": "24",
+      "phone": "87654321"
+    }
+  ]
+}

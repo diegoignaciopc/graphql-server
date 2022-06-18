@@ -1,0 +1,21 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json-server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.7.0",
+    "axios": "^0.27.2",
+    "graphql": "^16.5.0",
+    "json-server": "^0.17.0",
+    "uuid": "^8.3.2"
+  }
+}
