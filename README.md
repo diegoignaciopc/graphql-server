@@ -15,6 +15,10 @@ To write a GraphQL schema:
 
 > npm install graphql
 
+To run axios to simulate a api:
+
+> npm install axios
+
 ### Scripts
 
 Run GraphQL server generated in Apollo Studio:
